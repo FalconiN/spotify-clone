@@ -81,8 +81,8 @@ body{
     justify-content: center;
     align-items: center;
     color: white;
-    background: url('/assets/unsplash.jpg') center center/cover;
-    background-color: rgba(0,0,0,0.4);
+    background: url('/assets/unsplash-headseat.jpg') center center/cover;
+    background-color: rgba(0,0,0,0.3);
     background-blend-mode: color;
 }
 
@@ -131,6 +131,7 @@ body{
 
 #footer .footer-content .footer-menu-item {
     margin: 25px 0;
+    cursor: pointer;
 }
 
 #footer .footer-content .footer-menu-item:hover{
